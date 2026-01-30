@@ -1,0 +1,3 @@
+yfinance>=0.2.40          # Core library for Yahoo Finance data (options chains + IV)
+pandas>=2.0.0             # Data handling & analysis of options chains
+numpy>=1.24.0             # Numerical operations (often pulled in by pandas anyway)
